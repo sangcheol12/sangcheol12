@@ -20,4 +20,4 @@ stack :
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
 
 #### algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=eric2057)](https://solved.ac/eric2057)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eric2057)](https://solved.ac/eric2057)
