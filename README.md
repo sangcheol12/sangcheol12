@@ -4,9 +4,6 @@ Back-end Developer
 
 #### Working at Team MAT / Team SSU cream
 
-#### To be active<br>
-<img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white">
-
 Stack : 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -18,6 +15,9 @@ Stack :
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
+
+#### To be active<br>
+<img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white">
 
 #### Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eric2057)](https://solved.ac/eric2057)
