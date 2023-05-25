@@ -18,7 +18,7 @@ Stack :
 
 #### To be active<br>
 <img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white">
-[![sangchep's 42 stats](https://badge42.vercel.app/api/v2/clh73g7nj001608mnj3thcmh2/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh73g7nj001608mnj3thcmh2/stats?cursusId=21&coalitionId=86" alt="sangchep's 42 stats" /></a>
 
 #### Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eric2057)](https://solved.ac/eric2057)
