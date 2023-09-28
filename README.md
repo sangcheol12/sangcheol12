@@ -28,7 +28,6 @@ Stack :
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh73g7nj001608mnj3thcmh2/stats?cursusId=21&coalitionId=86" alt="sangchep's 42 stats" /></a>
 
 #### Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eric2057)](https://solved.ac/eric2057)
 
 #### Award
 2022 숭실대학교 컴퓨터학부 소프트웨어 공모전 (은상)<br>
