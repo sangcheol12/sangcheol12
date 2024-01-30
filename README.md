@@ -24,7 +24,8 @@ Stack :
 <img src="https://img.shields.io/badge/AWS S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
 
 #### To be active<br>
-42 Seoul (9기) : 2023-03 ~ 활동 중
+42 Seoul (9기) : 2023-03 ~ 2023-12
+메가스터디 SW 강사 : 2023-11 ~ 진행 중
 
 #### Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eric2057)](https://solved.ac/eric2057)
