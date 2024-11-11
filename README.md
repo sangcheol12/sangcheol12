@@ -26,7 +26,7 @@ Stack :
 #### To be active<br>
 42 Seoul (9기) : 2023-03 ~ 2023-12<br>
 메가스터디 SW 강사 : 2023-11 ~ 2024-05<br>
-소프트웨어 마에스트로 (15기) : 2024-04 ~ 진행 중
+소프트웨어 마에스트로 (15기) : 2024-04 ~ 2024-11
 
 #### Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eric2057)](https://solved.ac/eric2057)
